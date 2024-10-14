@@ -1,6 +1,4 @@
 
-Here's a simple and concise README for your Bash scripting project, including a section on loops and functions:
-
 Bash Scripting Basics
 This repository contains basic Bash scripts that demonstrate fundamental scripting concepts. It serves as a beginner-friendly guide to learning and practicing Bash scripting skills.
 
